@@ -3,42 +3,73 @@ name: Build Jee OneShot OS APK
 on:
   workflow_dispatch:
   push:
-    branches: ["main"]
+    branches:
+      - main
+
+permissions:
+  contents: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Setup Node
+
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Setup Java
+
+      - name: Set up Java
         uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: "21"
-      - name: Setup Android SDK
+          java-version: '21'
+
+      - name: Set up Android SDK
         uses: android-actions/setup-android@v4
-        with:
-          packages: 'platform-tools'
-      - name: Install dependencies
+
+      - name: Verify source files
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in package.json index.html app.js one-shots.json capacitor.config.json; do
+            if [[ ! -f "$file" ]]; then
+              echo "::error::Required file missing at repository root: $file"
+              echo "Make sure the contents of Jee-OneShot-OS-3.1.1 are at the repository root, not inside an extra nested folder."
+              exit 1
+            fi
+          done
+
+      - name: Install Capacitor dependencies
         run: npm install
+
+      # Do this inline instead of relying on scripts/prepare-mobile.js being committed.
       - name: Prepare mobile web assets
-        run: node scripts/prepare-mobile.js
-      - name: Verify mobile web assets
-        run: test -f www/index.html && test -f www/app.js && test -f www/one-shots.json
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf www
+          mkdir -p www
+          cp index.html app.js one-shots.json www/
+          test -s www/index.html
+          test -s www/app.js
+          test -s www/one-shots.json
+
+      - name: Check Capacitor dependencies
+        run: node -e "require.resolve('@capacitor/core'); require.resolve('@capacitor/cli'); require.resolve('@capacitor/android')"
+
       - name: Create Android project
         run: npx cap add android
-      - name: Sync web app
+
+      - name: Sync web assets
         run: npx cap sync android
+
       - name: Build debug APK
         working-directory: android
         run: ./gradlew assembleDebug --no-daemon
+
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
