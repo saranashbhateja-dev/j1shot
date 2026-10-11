@@ -1,0 +1,441 @@
+{
+  "version": 1,
+  "app": "Jee OneShot OS 3.1.1",
+  "playlistId": "PLe2OLDq3OCGA",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLe2OLDq3OCGA",
+  "videoCount": 54,
+  "videos": [
+    {
+      "id": "OS01",
+      "order": 1,
+      "name": "Sets, Basic Mathematics",
+      "videoId": "JjTuca-MkGY",
+      "url": "https://www.youtube.com/watch?v=JjTuca-MkGY",
+      "shortUrl": "https://youtu.be/JjTuca-MkGY"
+    },
+    {
+      "id": "OS02",
+      "order": 2,
+      "name": "Quadratic Equations, Logarithms",
+      "videoId": "siCu5hUK9p4",
+      "url": "https://www.youtube.com/watch?v=siCu5hUK9p4",
+      "shortUrl": "https://youtu.be/siCu5hUK9p4"
+    },
+    {
+      "id": "OS03",
+      "order": 3,
+      "name": "Sequence and Series",
+      "videoId": "Y4VoRcXoo60",
+      "url": "https://www.youtube.com/watch?v=Y4VoRcXoo60",
+      "shortUrl": "https://youtu.be/Y4VoRcXoo60"
+    },
+    {
+      "id": "OS04",
+      "order": 4,
+      "name": "Units and Dimensions, Vectors",
+      "videoId": "fgpd4Gp8n7M",
+      "url": "https://www.youtube.com/watch?v=fgpd4Gp8n7M",
+      "shortUrl": "https://youtu.be/fgpd4Gp8n7M"
+    },
+    {
+      "id": "OS05",
+      "order": 5,
+      "name": "Kinematics",
+      "videoId": "Fdt2LFkFnRw",
+      "url": "https://www.youtube.com/watch?v=Fdt2LFkFnRw",
+      "shortUrl": "https://youtu.be/Fdt2LFkFnRw"
+    },
+    {
+      "id": "OS06",
+      "order": 6,
+      "name": "Newton’s Laws of Motion, Friction",
+      "videoId": "pLJzrkp7zfk",
+      "url": "https://www.youtube.com/watch?v=pLJzrkp7zfk",
+      "shortUrl": "https://youtu.be/pLJzrkp7zfk"
+    },
+    {
+      "id": "OS07",
+      "order": 7,
+      "name": "Circular Motion, Work, Energy and Power",
+      "videoId": "AggQH1MHapM",
+      "url": "https://www.youtube.com/watch?v=AggQH1MHapM",
+      "shortUrl": "https://youtu.be/AggQH1MHapM"
+    },
+    {
+      "id": "OS08",
+      "order": 8,
+      "name": "Mole Concept, Redox Reactions",
+      "videoId": "FrpW3j7F-X0",
+      "url": "https://www.youtube.com/watch?v=FrpW3j7F-X0",
+      "shortUrl": "https://youtu.be/FrpW3j7F-X0"
+    },
+    {
+      "id": "OS09",
+      "order": 9,
+      "name": "Atomic Structure, Periodic Table",
+      "videoId": "CG2m4h1kqgU",
+      "url": "https://www.youtube.com/watch?v=CG2m4h1kqgU",
+      "shortUrl": "https://youtu.be/CG2m4h1kqgU"
+    },
+    {
+      "id": "OS10",
+      "order": 10,
+      "name": "Solutions",
+      "videoId": "WvW5AG2tdrg",
+      "url": "https://www.youtube.com/watch?v=WvW5AG2tdrg",
+      "shortUrl": "https://youtu.be/WvW5AG2tdrg"
+    },
+    {
+      "id": "OS11",
+      "order": 11,
+      "name": "Trigonometric Ratios, Trigonometric Equations",
+      "videoId": "ci03MLWK3ZY",
+      "url": "https://www.youtube.com/watch?v=ci03MLWK3ZY",
+      "shortUrl": "https://youtu.be/ci03MLWK3ZY"
+    },
+    {
+      "id": "OS12",
+      "order": 12,
+      "name": "Centre of Mass, Rotational Motion",
+      "videoId": "yBJuiYbjc1w",
+      "url": "https://www.youtube.com/watch?v=yBJuiYbjc1w",
+      "shortUrl": "https://youtu.be/yBJuiYbjc1w"
+    },
+    {
+      "id": "OS13",
+      "order": 13,
+      "name": "Gravitation",
+      "videoId": "4qozXXcIxsQ",
+      "url": "https://www.youtube.com/watch?v=4qozXXcIxsQ",
+      "shortUrl": "https://youtu.be/4qozXXcIxsQ"
+    },
+    {
+      "id": "OS14",
+      "order": 14,
+      "name": "Units and Measurements, Errors in Measurement",
+      "videoId": "fzdZmubThfo",
+      "url": "https://www.youtube.com/watch?v=fzdZmubThfo",
+      "shortUrl": "https://youtu.be/fzdZmubThfo"
+    },
+    {
+      "id": "OS15",
+      "order": 15,
+      "name": "Chemical Bonding – I",
+      "videoId": "yvGK9CzlYbI",
+      "url": "https://www.youtube.com/watch?v=yvGK9CzlYbI",
+      "shortUrl": "https://youtu.be/yvGK9CzlYbI"
+    },
+    {
+      "id": "OS16",
+      "order": 16,
+      "name": "Chemical Bonding – II",
+      "videoId": "m5TziaoLhH0",
+      "url": "https://www.youtube.com/watch?v=m5TziaoLhH0",
+      "shortUrl": "https://youtu.be/m5TziaoLhH0"
+    },
+    {
+      "id": "OS17",
+      "order": 17,
+      "name": "IUPAC Nomenclature, Reaction Mechanism",
+      "videoId": "C3q7on99Oig",
+      "url": "https://www.youtube.com/watch?v=C3q7on99Oig",
+      "shortUrl": "https://youtu.be/C3q7on99Oig"
+    },
+    {
+      "id": "OS18",
+      "order": 18,
+      "name": "General Organic Chemistry",
+      "videoId": "Jh3GX7kEO3c",
+      "url": "https://www.youtube.com/watch?v=Jh3GX7kEO3c",
+      "shortUrl": "https://youtu.be/Jh3GX7kEO3c"
+    },
+    {
+      "id": "OS19",
+      "order": 19,
+      "name": "Isomerism",
+      "videoId": "dzOzps94lpM",
+      "url": "https://www.youtube.com/watch?v=dzOzps94lpM",
+      "shortUrl": "https://youtu.be/dzOzps94lpM"
+    },
+    {
+      "id": "OS20",
+      "order": 20,
+      "name": "Functions, Inverse Trigonometric Functions",
+      "videoId": "zLBc7Cxvl-o",
+      "url": "https://www.youtube.com/watch?v=zLBc7Cxvl-o",
+      "shortUrl": "https://youtu.be/zLBc7Cxvl-o"
+    },
+    {
+      "id": "OS21",
+      "order": 21,
+      "name": "Limits, Continuity",
+      "videoId": "P3T_q7iZR6I",
+      "url": "https://www.youtube.com/watch?v=P3T_q7iZR6I",
+      "shortUrl": "https://youtu.be/P3T_q7iZR6I"
+    },
+    {
+      "id": "OS22",
+      "order": 22,
+      "name": "Straight Lines, Circles",
+      "videoId": "XU-PP81opaA",
+      "url": "https://www.youtube.com/watch?v=XU-PP81opaA",
+      "shortUrl": "https://youtu.be/XU-PP81opaA"
+    },
+    {
+      "id": "OS23",
+      "order": 23,
+      "name": "Fluid Mechanics",
+      "videoId": "ZKxF4ppPCp4",
+      "url": "https://www.youtube.com/watch?v=ZKxF4ppPCp4",
+      "shortUrl": "https://youtu.be/ZKxF4ppPCp4"
+    },
+    {
+      "id": "OS24",
+      "order": 24,
+      "name": "Simple Harmonic Motion",
+      "videoId": "t0Eq21uAUHA",
+      "url": "https://www.youtube.com/watch?v=t0Eq21uAUHA",
+      "shortUrl": "https://youtu.be/t0Eq21uAUHA"
+    },
+    {
+      "id": "OS25",
+      "order": 25,
+      "name": "Waves",
+      "videoId": "dpMC_f8A8HI",
+      "url": "https://www.youtube.com/watch?v=dpMC_f8A8HI",
+      "shortUrl": "https://youtu.be/dpMC_f8A8HI"
+    },
+    {
+      "id": "OS26",
+      "order": 26,
+      "name": "Purification of Organic Compounds, Qualitative Analysis, Quantitative Analysis, Optical Isomerism",
+      "videoId": "ZjMcjHV1eg4",
+      "url": "https://www.youtube.com/watch?v=ZjMcjHV1eg4",
+      "shortUrl": "https://youtu.be/ZjMcjHV1eg4"
+    },
+    {
+      "id": "OS27",
+      "order": 27,
+      "name": "Oxidising Agents, Reducing Agents, Grignard Reagent",
+      "videoId": "IUxFtEaTeog",
+      "url": "https://www.youtube.com/watch?v=IUxFtEaTeog",
+      "shortUrl": "https://youtu.be/IUxFtEaTeog"
+    },
+    {
+      "id": "OS28",
+      "order": 28,
+      "name": "Aldehydes and Ketones, Carboxylic Acids, Amines",
+      "videoId": "zCBC4-mxmdU",
+      "url": "https://www.youtube.com/watch?v=zCBC4-mxmdU",
+      "shortUrl": "https://youtu.be/zCBC4-mxmdU"
+    },
+    {
+      "id": "OS29",
+      "order": 29,
+      "name": "Biomolecules, Aromatic Compounds",
+      "videoId": "Mfb4CJSHkdo",
+      "url": "https://www.youtube.com/watch?v=Mfb4CJSHkdo",
+      "shortUrl": "https://youtu.be/Mfb4CJSHkdo"
+    },
+    {
+      "id": "OS30",
+      "order": 30,
+      "name": "Differentiability, Methods of Differentiation, Monotonicity",
+      "videoId": "MXScLpCBcdg",
+      "url": "https://www.youtube.com/watch?v=MXScLpCBcdg",
+      "shortUrl": "https://youtu.be/MXScLpCBcdg"
+    },
+    {
+      "id": "OS31",
+      "order": 31,
+      "name": "Parabola, Ellipse, Hyperbola",
+      "videoId": "inEvIFA9Qk4",
+      "url": "https://www.youtube.com/watch?v=inEvIFA9Qk4",
+      "shortUrl": "https://youtu.be/inEvIFA9Qk4"
+    },
+    {
+      "id": "OS32",
+      "order": 32,
+      "name": "Binomial Theorem, Complex Numbers",
+      "videoId": "KRLeMSYb7i4",
+      "url": "https://www.youtube.com/watch?v=KRLeMSYb7i4",
+      "shortUrl": "https://youtu.be/KRLeMSYb7i4"
+    },
+    {
+      "id": "OS33",
+      "order": 33,
+      "name": "Heat, Thermodynamics",
+      "videoId": "IpQ5hFnThUY",
+      "url": "https://www.youtube.com/watch?v=IpQ5hFnThUY",
+      "shortUrl": "https://youtu.be/IpQ5hFnThUY"
+    },
+    {
+      "id": "OS34",
+      "order": 34,
+      "name": "Electrostatics",
+      "videoId": "2Od_ytPaALQ",
+      "url": "https://www.youtube.com/watch?v=2Od_ytPaALQ",
+      "shortUrl": "https://youtu.be/2Od_ytPaALQ"
+    },
+    {
+      "id": "OS35",
+      "order": 35,
+      "name": "Capacitors",
+      "videoId": "iOS3iIQsuiU",
+      "url": "https://www.youtube.com/watch?v=iOS3iIQsuiU",
+      "shortUrl": "https://youtu.be/iOS3iIQsuiU"
+    },
+    {
+      "id": "OS36",
+      "order": 36,
+      "name": "Current Electricity",
+      "videoId": "m3LCzTwcHGI",
+      "url": "https://www.youtube.com/watch?v=m3LCzTwcHGI",
+      "shortUrl": "https://youtu.be/m3LCzTwcHGI"
+    },
+    {
+      "id": "OS37",
+      "order": 37,
+      "name": "Ray Optics",
+      "videoId": "eJvoYLqp4rU",
+      "url": "https://www.youtube.com/watch?v=eJvoYLqp4rU",
+      "shortUrl": "https://youtu.be/eJvoYLqp4rU"
+    },
+    {
+      "id": "OS38",
+      "order": 38,
+      "name": "Wave Optics",
+      "videoId": "X6PDYQj-mrk",
+      "url": "https://www.youtube.com/watch?v=X6PDYQj-mrk",
+      "shortUrl": "https://youtu.be/X6PDYQj-mrk"
+    },
+    {
+      "id": "OS39",
+      "order": 39,
+      "name": "Chemical Equilibrium, Ionic Equilibrium",
+      "videoId": "6Cvdy_ECsr0",
+      "url": "https://www.youtube.com/watch?v=6Cvdy_ECsr0",
+      "shortUrl": "https://youtu.be/6Cvdy_ECsr0"
+    },
+    {
+      "id": "OS40",
+      "order": 40,
+      "name": "Chemical Kinetics, Atomic Structure",
+      "videoId": "UmOwtm9lJJY",
+      "url": "https://www.youtube.com/watch?v=UmOwtm9lJJY",
+      "shortUrl": "https://youtu.be/UmOwtm9lJJY"
+    },
+    {
+      "id": "OS41",
+      "order": 41,
+      "name": "Thermodynamics, Thermochemistry",
+      "videoId": "WkTpkOoThRw",
+      "url": "https://www.youtube.com/watch?v=WkTpkOoThRw",
+      "shortUrl": "https://youtu.be/WkTpkOoThRw"
+    },
+    {
+      "id": "OS42",
+      "order": 42,
+      "name": "Electrochemistry",
+      "videoId": "mliKUsRyo78",
+      "url": "https://www.youtube.com/watch?v=mliKUsRyo78",
+      "shortUrl": "https://youtu.be/mliKUsRyo78"
+    },
+    {
+      "id": "OS43",
+      "order": 43,
+      "name": "Permutations and Combinations, Probability",
+      "videoId": "PDtYDwpOQBk",
+      "url": "https://www.youtube.com/watch?v=PDtYDwpOQBk",
+      "shortUrl": "https://youtu.be/PDtYDwpOQBk"
+    },
+    {
+      "id": "OS44",
+      "order": 44,
+      "name": "Determinants, Matrices",
+      "videoId": "KvPC7f1Y_pY",
+      "url": "https://www.youtube.com/watch?v=KvPC7f1Y_pY",
+      "shortUrl": "https://youtu.be/KvPC7f1Y_pY"
+    },
+    {
+      "id": "OS45",
+      "order": 45,
+      "name": "Vector Algebra, Three-Dimensional Geometry",
+      "videoId": "KhfYOaSi9ko",
+      "url": "https://www.youtube.com/watch?v=KhfYOaSi9ko",
+      "shortUrl": "https://youtu.be/KhfYOaSi9ko"
+    },
+    {
+      "id": "OS46",
+      "order": 46,
+      "name": "Indefinite Integration, Definite Integration, Area Under Curves",
+      "videoId": "qVUxLgeP_04",
+      "url": "https://www.youtube.com/watch?v=qVUxLgeP_04",
+      "shortUrl": "https://youtu.be/qVUxLgeP_04"
+    },
+    {
+      "id": "OS47",
+      "order": 47,
+      "name": "Differential Equations, Maxima and Minima, Relations, Statistics",
+      "videoId": "oi0aXBH-w7Q",
+      "url": "https://www.youtube.com/watch?v=oi0aXBH-w7Q",
+      "shortUrl": "https://youtu.be/oi0aXBH-w7Q"
+    },
+    {
+      "id": "OS48",
+      "order": 48,
+      "name": "Magnetic Effects of Current",
+      "videoId": "10mlA3IZqL0",
+      "url": "https://www.youtube.com/watch?v=10mlA3IZqL0",
+      "shortUrl": "https://youtu.be/10mlA3IZqL0"
+    },
+    {
+      "id": "OS49",
+      "order": 49,
+      "name": "Electromagnetic Induction, Alternating Current",
+      "videoId": "DlTMrjBYORE",
+      "url": "https://www.youtube.com/watch?v=DlTMrjBYORE",
+      "shortUrl": "https://youtu.be/DlTMrjBYORE"
+    },
+    {
+      "id": "OS50",
+      "order": 50,
+      "name": "Modern Physics",
+      "videoId": "RD9O7JYlyQU",
+      "url": "https://www.youtube.com/watch?v=RD9O7JYlyQU",
+      "shortUrl": "https://youtu.be/RD9O7JYlyQU"
+    },
+    {
+      "id": "OS51",
+      "order": 51,
+      "name": "Semiconductor Electronics",
+      "videoId": "BsO93MoWZhI",
+      "url": "https://www.youtube.com/watch?v=BsO93MoWZhI",
+      "shortUrl": "https://youtu.be/BsO93MoWZhI"
+    },
+    {
+      "id": "OS52",
+      "order": 52,
+      "name": "p-Block Elements, d- and f-Block Elements",
+      "videoId": "AE1tBrVt1Kc",
+      "url": "https://www.youtube.com/watch?v=AE1tBrVt1Kc",
+      "shortUrl": "https://youtu.be/AE1tBrVt1Kc"
+    },
+    {
+      "id": "OS53",
+      "order": 53,
+      "name": "Coordination Compounds",
+      "videoId": "qEBFpkAvaBk",
+      "url": "https://www.youtube.com/watch?v=qEBFpkAvaBk",
+      "shortUrl": "https://youtu.be/qEBFpkAvaBk"
+    },
+    {
+      "id": "OS54",
+      "order": 54,
+      "name": "Salt Analysis",
+      "videoId": "p0JhMuSEzQ8",
+      "url": "https://www.youtube.com/watch?v=p0JhMuSEzQ8",
+      "shortUrl": "https://youtu.be/p0JhMuSEzQ8"
+    }
+  ]
+}

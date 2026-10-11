@@ -1,0 +1,5 @@
+Jee OneShot OS
+Version: 3.1.4
+Purpose: APK build dependency fix
+
+All app behavior and UI remain based on version 3.1.3.
