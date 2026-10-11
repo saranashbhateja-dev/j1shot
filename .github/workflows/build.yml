@@ -43,7 +43,7 @@ jobs:
           done
 
       - name: Install Capacitor dependencies
-        run: npm install
+        run: npm install @capacitor/core@^8 @capacitor/cli@^8 @capacitor/android@^8
 
       # Do this inline instead of relying on scripts/prepare-mobile.js being committed.
       - name: Prepare mobile web assets
